@@ -7,7 +7,7 @@ function copiarChavePix() {
       // Sucesso ao copiar
       alert(
       ` 
-      Chave Pix copiada: [${chavePix}] \n 
+      Chave Pix copiada: ${chavePix} \n 
       ROSIENE ALVES DA SILVA \n 
       Banco: MERCADO PAGO\n 
       `
