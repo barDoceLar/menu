@@ -1,6 +1,6 @@
 function copiarChavePix() {
     // Define o texto da chave Pix diretamente
-    var chavePix = '123456789';
+    var chavePix = '079.946.454-61';
     
     // Usa a API Clipboard para copiar o texto para a área de transferência
     navigator.clipboard.writeText(chavePix).then(function() {
@@ -8,8 +8,8 @@ function copiarChavePix() {
       alert(
       ` 
       Chave Pix copiada: [${chavePix}] \n 
-      ROSE \n 
-      Banco: NUBANK\n 
+      ROSIENE ALVES DA SILVA \n 
+      Banco: MERCADO PAGO\n 
       `
       );
     }, function(err) {
